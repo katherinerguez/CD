@@ -1,0 +1,1680 @@
+{
+    "cerveza" : [
+        {
+            "marca": "cristal",
+            "tipo":"botella",
+            "precio": 220,
+            "loc":[23.05318, -82.27235] ,
+            "municipio":"Cotorro",
+            "pais":"Peru",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "bucanero",
+            "tipo":"botella",
+            "precio": 220,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "corona extra",
+            "tipo":"botella",
+            "precio": 240,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "stella artois",
+            "tipo":"botella",
+            "precio": 150,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"botella",
+            "precio": 180,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 240,
+            "loc":[23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "bavaria holland",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "bucanero max" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "cristal extra" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Peru",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "mayabe" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 140,
+            "loc":[23.05318, -82.27235] ,
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "bavaria 8.6" ,
+            "tipo":"lata",
+            "precio": 250,
+            "loc": [23.05318, -82.27235] ,
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.05273, -82.2724],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_103034_HDR.jpg"
+
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc":[23.050280, -82.273354] ,
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_103856_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.048494, -82.274872],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_105101_HDR.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.048494, -82.274872],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_105101_HDR.jpg"
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"botella",
+            "precio": 170,
+            "loc": [23.043793, -82.268631],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":["./imagenes_capturadas/20230429_111334_HDR.jpg","./imagenes_capturadas/20230429_111408_HDR.jpg", "./imagenes_capturadas/20230429_111245_HDR.jpg"]
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.043705, -82.268639],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_111535_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.042044, -82.268700],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_112319_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 220,
+            "loc": [23.042044, -82.268700],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_112319_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc":[23.039589, -82.268570],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":["./imagenes_capturadas/20230429_113444_HDR.jpg","./imagenes_capturadas/20230429_113458_HDR.jpg"]
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 155,
+            "loc":[23.039589, -82.268570],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_113444_HDR.jpg","./imagenes_capturadas/20230429_113458_HDR.jpg"]
+        },
+        {
+            "marca": "hollandia",
+            "precio": 155,
+            "loc":[23.039589, -82.268570],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_113444_HDR.jpg","./imagenes_capturadas/20230429_113458_HDR.jpg"]
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"botella",
+            "precio": 165,
+            "loc":[23.039392, -82.268494] ,
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/20230429_113551_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.039392, -82.268494],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_113551_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 205,
+            "loc": [23.039392, -82.268494],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_113551_HDR.jpg"
+        },
+        {
+            "marca": "martens",
+            "tipo": "lata",
+            "precio": 160,
+            "loc": [23.044704, -82.268410],
+            "municipio":"Cotorro",
+            "pais":"Israel",
+            "imagenes":"./imagenes_capturadas/20230429_114654_HDR.jpg"
+        },
+        {
+            "marca": "corona extra",
+            "tipo":"botella",
+            "precio": 240,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 180,
+            "loc": [23.044662, -82.268578],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_114828_HDR.jpg"
+        },
+        {
+            "marca": "unlaguer" ,
+            "tipo":"lata",
+            "precio": 190,
+            "loc":  [23.044662, -82.268578],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/20230429_114828_HDR.jpg"
+        },
+        {
+            "marca": "budweiser" ,
+            "tipo":"lata",
+            "precio": 190,
+            "loc":  [23.044662, -82.268578],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_114828_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc": [23.044729, -82.268707],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115002_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.044729, -82.268707],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115002_HDR.jpg"
+        },
+        {
+            "marca": "belga star",
+            "tipo": "lata",
+            "precio": 160,
+            "loc":[23.044729, -82.268707] ,
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_115002_HDR.jpg"
+        },
+        {
+            "marca": "belga star",
+            "tipo": "lata",
+            "precio": 160,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"lata",
+            "precio": 170,
+            "loc":[23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "presidente",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":["./imagenes_capturadas/20230429_115418_HDR.jpg", "./imagenes_capturadas/IMG_20230429_115230.jpg"]
+        },
+        {
+            "marca": "cruzcampo",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":["./imagenes_capturadas/20230429_115418_HDR.jpg", "./imagenes_capturadas/IMG_20230429_115230.jpg"]
+        },
+        {
+            "marca": "martens",
+            "tipo": "lata",
+            "precio": 140,
+            "loc": [23.047560, -82.270668],
+            "municipio":"Cotorro",
+            "pais":"Israel",
+            "imagenes":"./imagenes_capturadas/20230429_120226_HDR.jpg"
+        },
+        {
+            "marca": "belga star",
+            "tipo": "lata",
+            "precio": 150,
+            "loc": [23.048347, -82.271912],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_120930_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 140,
+            "loc":  [23.048347, -82.271912],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_120930_HDR.jpg"
+        },
+        {
+            "marca": "almara" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc":  [23.048347, -82.271912],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":"./imagenes_capturadas/20230429_120930_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.051050, -82.269775],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_122305_HDR.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 160,
+            "loc":  [23.051050, -82.269775],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/20230429_122305_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 190,
+            "loc": [23.050972, -82.268196],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_123458_HDR.jpg"
+        },
+        {
+            "marca": "martens",
+            "tipo": "lata",
+            "precio": 145,
+            "loc": [23.050972, -82.268196],
+            "municipio":"Cotorro",
+            "pais":"Israel",
+            "imagenes":"./imagenes_capturadas/20230429_123458_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 145,
+            "loc": [23.050972, -82.268196],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_123458_HDR.jpg"
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "loc": [23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 140,
+            "loc": [23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "dab" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc":[23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.052982, -82.264992],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":["./imagenes_capturadas/20230429_124946_HDR.jpg", "./imagenes_capturadas/20230429_124921_HDR.jpg"]
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc":[23.052982, -82.264992] ,
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":["./imagenes_capturadas/20230429_124946_HDR.jpg", "./imagenes_capturadas/20230429_124921_HDR.jpg"]
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 220,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc":  [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061975, -82.258583] ,
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061975, -82.258583] ,
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc":[23.061975, -82.258583] ,
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 160,
+            "loc":[23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "holland import",
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 220,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.063797, -82.259552],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/20230429_131733_HDR.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 140,
+            "loc": [23.063797, -82.259552],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/20230429_131733_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 140,
+            "loc": [23.063797, -82.259552],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_131733_HDR.jpg"
+        },
+        {
+            "marca": "dab" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.061699, -82.255928],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_144659_HDR.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.061886, -82.254532],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/20230429_144954_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc":[23.061886, -82.254532],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_144954_HDR.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.061886, -82.254532],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_144954_HDR.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.055008, -82.271362],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_171709_HDR.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc":[23.042807, -82.266624],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_103935.jpg"
+        },
+        {
+            "marca": "ocho cero nueve" ,
+            "tipo":"lata",
+            "precio": 180,
+            "loc": [23.042807, -82.266624],
+            "municipio":"Cotorro",
+            "pais":"Portugal",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_103935.jpg"
+        },
+        {
+            "marca": "martens",
+            "tipo": "lata",
+            "precio": 140,
+            "loc": [23.042788, -82.266464],
+            "municipio":"Cotorro",
+            "pais":"Israel",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_104055.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.036285, -82.258438],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_104856.jpg"
+        },
+        {
+            "marca": "hollandia" ,
+            "tipo":"lata",
+            "precio": 230,
+            "loc":[23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "tipo":"lata",
+            "precio": 200,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "bavaria 8.6" ,
+            "tipo":"lata",
+            "precio": 240,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "holba" ,
+            "tipo":"lata",
+            "precio": 190,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Republica Checa",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105619.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105619.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105619.jpg"
+        },
+        {
+            "marca": "almara" ,
+            "tipo":"lata",
+            "precio": 160,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105619.jpg"
+        },
+        {
+            "marca": "hollandia" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.036608, -82.260933],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_110908.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.038137, -82.260201],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111026.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc":  [23.038137, -82.260201],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111026.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 210,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "cristal extra" ,
+            "tipo":"lata",
+            "precio": 210,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Peru",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "belga star",
+            "tipo": "lata",
+            "precio": 165,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "bucanero max",
+            "tipo":"lata",
+            "precio": 210,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "almara" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "lager" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc":[23.038792, -82.260674] ,
+            "municipio":"Cotorro",
+            "pais":"Canada",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "cruzcampo",
+            "tipo":"lata",
+            "precio": 165,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "san miguel" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc":[23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "horses" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "mahou",
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.038864, -82.261299],
+            "municipio":"Cotorro",
+            "pais":"Espana",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111603.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 165,
+            "loc": [23.039167, -82.261658],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111701.jpg"
+        },
+        {
+            "marca": "presidente",
+            "tipo":"lata",
+            "precio": 155,
+            "loc":  [23.039167, -82.261658],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111701.jpg"
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"lata",
+            "precio": 180,
+            "loc": [23.039236, -82.262016],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111816.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 150,
+            "loc": [23.039236, -82.262016],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111816.jpg"
+        },
+        {
+            "marca": "almara" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.039595, -82.262260],
+            "municipio":"Cotorro",
+            "pais":"Mexico",
+            "imagenes":["./imagenes_capturadas/IMG_20230429_111936.jpg","./imagenes_capturadas/IMG_20230429_111939.jpg"]
+        },
+        {
+            "marca": "bavaria",
+            "tipo":"lata",
+            "precio": 180,
+            "loc": [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Colombia",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 180,
+            "loc":  [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "cristal extra" ,
+            "tipo":"lata",
+            "precio": 200,
+            "loc":  [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Peru",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "cristal" ,
+            "tipo":"lata",
+            "precio": 220,
+            "loc":  [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "eichbaum pilsener" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112409.jpg"
+        },
+        {
+            "marca": "timber" ,
+            "tipo":"lata",
+            "precio": 170,
+            "loc": [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112409.jpg"
+        },
+        {
+            "marca": "windmill" ,
+            "tipo":"lata",
+            "precio": 180,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_114826.jpg"
+        }
+
+    ],
+    "cebolla" : [
+        {
+            "tipo": "morada",
+            "precio": 160,
+            "loc":[23.05325, -82.27228],
+            "municipio":"Cotorro",
+            "imagenes": "./imagenes_capturadas/20230429_102648_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.050640, -82.273102],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_103702_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 150,
+            "loc": [23.050640, -82.273102],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_103702_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 145,
+            "loc": [23.050293, -82.273354],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_104044_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 150,
+            "loc":[23.050053, -82.273811] ,
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_104240_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.050053, -82.273811],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_104240_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.048365, -82.275208],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_105334_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.043793, -82.268631],
+            "municipio":"Cotorro",
+            "imagenes":["./imagenes_capturadas/20230429_111334_HDR.jpg","./imagenes_capturadas/20230429_111408_HDR.jpg", "./imagenes_capturadas/20230429_111245_HDR.jpg"]
+        },
+        {
+            "tipo": "morada",
+            "precio": 170,
+            "loc": [23.046251, -82.270294],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_115827_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 140,
+            "loc": [23.047560, -82.270668],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_120252_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.047672, -82.270958],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_120505_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 160,
+            "loc": [23.050301, -82.271484],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_121350_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "loc": [23.050301, -82.271484],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_121944_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 170,
+            "loc": [23.051050, -82.269775],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_122437_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 180,
+            "loc":[23.052982, -82.264992],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_124646_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 170,
+            "loc": [23.052982, -82.264992],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_124758_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 140,
+            "loc": [23.063633, -82.259438],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_131547_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 140,
+            "loc": [23.063633, -82.259438],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_131547_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.063595, -82.259514] ,
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_131630_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 157,
+            "loc": [23.063797, -82.259552],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_142902_HDR.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.064213, -82.259499],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/20230429_150444_HDR.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 150,
+            "loc": [23.043173, -82.266953],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_102650.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.043283, -82.266998],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_102741.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.043238, -82.267014],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_102801.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc":[23.043266, -82.267128],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_102927.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 140,
+            "loc": [23.043266, -82.267128],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_102927.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc":[23.043362, -82.267174],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_103644.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 130,
+            "loc": [23.036751, -82.260887],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105734.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 150,
+            "loc": [23.036816, -82.261101],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105930.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 130,
+            "loc": [23.036795, -82.261185],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_110111.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "loc": [23.038551, -82.260750],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111212_1.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 160,
+            "loc": [23.038551, -82.260750],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111212_1.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "loc": [23.038864, -82.261093],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111505.jpg"
+        },
+        
+        {
+            "tipo": "blanca",
+            "precio": 160,
+            "loc":[23.038862, -82.261093] ,
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111513.jpg"
+        },
+        {
+            "tipo": "blanca",
+            "precio": 140,
+            "loc": [23.047527, -82.270721],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_120257.jpg"
+        },
+        {
+            "tipo": "morada",
+            "precio": 140,
+            "loc": [23.047527, -82.270721],
+            "municipio":"Cotorro",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_120248.jpg"
+        }
+       
+    ],
+    "malta" : [
+        {
+            "marca": "bucanero",
+            "precio": 210,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "hyper malt",
+            "precio": 170,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "hollandia",
+            "precio": 160,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "malta morena",
+            "precio": 140,
+            "loc": [23.05318, -82.27235],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":["./imagenes_capturadas/20230429_102828_HDR.jpg","./imagenes_capturadas/20230429_102835_HDR.jpg"]
+        },
+        {
+            "marca": "belga star",
+            "precio": 150,
+            "loc":[23.05273, -82.2724] ,
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_103034_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc": [23.05273, -82.2724],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_103034_HDR.jpg"
+        },
+        {
+            "marca": "belga star",
+            "precio": 150,
+            "loc": [23.052212, -82.272583],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_103248_HDR.jpg"
+        },
+        {
+            "marca": "magic malt",
+            "precio": 200,
+            "loc": [23.043793, -82.268631],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_111334_HDR.jpg","./imagenes_capturadas/20230429_111408_HDR.jpg", "./imagenes_capturadas/20230429_111245_HDR.jpg"]
+        },
+        {
+            "marca": "belga star",
+            "precio": 200,
+            "loc": [23.043705, -82.268639],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_111535_HDR.jpg"
+        },
+        {
+            "marca": "vigor",
+            "precio": 140,
+            "loc": [23.042044, -82.268700],
+            "municipio":"Cotorro",
+            "pais":"Panama",
+            "imagenes":"./imagenes_capturadas/20230429_112319_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc": [23.039589, -82.268570],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":["./imagenes_capturadas/20230429_113444_HDR.jpg","./imagenes_capturadas/20230429_113458_HDR.jpg"]
+        },
+        {
+            "marca": "vigor",
+            "precio": 140,
+            "loc":[23.039589, -82.268570],
+            "municipio":"Cotorro",
+            "pais":"Panama",
+            "imagenes":["./imagenes_capturadas/20230429_113444_HDR.jpg","./imagenes_capturadas/20230429_113458_HDR.jpg"]
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc": [23.039392, -82.268494],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_113551_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 220,
+            "loc":  [23.044662, -82.268578],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_114828_HDR.jpg"
+            },
+        
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc":  [23.044662, -82.268578],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_114828_HDR.jpg"
+        },
+        
+        {
+            "marca": "belga star",
+            "precio": 170,
+            "loc": [23.044729, -82.268707],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_115002_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc":[23.044729, -82.268707],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115002_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc":[23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "belga star",
+            "precio": 170,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_115045_HDR.jpg"
+        },
+        {
+            "marca": "ligre malta",
+            "precio": 160,
+            "loc":[23.047560, -82.270668] ,
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_120226_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 230,
+            "loc":  [23.051050, -82.269775],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_122305_HDR.jpg"
+        },
+         {
+            "marca": "ligre malta",
+            "precio": 160,
+            "loc": [23.050972, -82.268196],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/20230429_123458_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 210,
+            "loc":[23.049707, -82.268181],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_124054_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 230,
+            "loc": [23.052982, -82.264992],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":["./imagenes_capturadas/20230429_124946_HDR.jpg", "./imagenes_capturadas/20230429_124921_HDR.jpg"]
+        },
+        {
+            "marca": "malta morena",
+            "precio": 150,
+            "loc":  [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 200,
+            "loc": [23.061975, -82.258583] ,
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 230,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_130631_HDR.jpg"
+        },
+        {
+            "marca": "malta morena",
+            "precio": 150,
+            "loc":[23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 230,
+            "loc": [23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 200,
+            "loc":[23.061975, -82.258583],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_130634_HDR.jpg"
+        },
+        {
+            "marca": "hyper malt",
+            "precio": 160,
+            "loc":[23.063797, -82.259552],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/20230429_131733_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc": [23.061886, -82.254532],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/20230429_144954_HDR.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 200,
+            "loc":[23.042807, -82.266624],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_103935.jpg"
+        },
+        {
+            "marca": "ligre malta",
+            "precio": 150,
+            "loc": [23.042788, -82.266464],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_104055.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 230,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 200,
+            "loc": [23.040516, -82.260536],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_105215.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 175,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "malta taina",
+            "precio": 175,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Estados Unidos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "hyper malt",
+            "precio": 175,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 215,
+            "loc": [23.038792, -82.260674],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111325.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 190,
+            "loc": [23.038864, -82.261299],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111603.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 170,
+            "loc":  [23.039167, -82.261658],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111701.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc": [23.039236, -82.262016],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_111816.jpg"
+        },
+        {
+            "marca": "ligre malta",
+            "precio": 160,
+            "loc": [23.039595, -82.262260],
+            "municipio":"Cotorro",
+            "pais":"Belgica",
+            "imagenes":["./imagenes_capturadas/IMG_20230429_111936.jpg","./imagenes_capturadas/IMG_20230429_111939.jpg"]
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc":  [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "hyper malt",
+            "precio": 180,
+            "loc": [23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Alemania",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112300.jpg"
+        },
+        {
+            "marca": "malta morena",
+            "precio": 160,
+            "loc":[23.040483, -82.259857],
+            "municipio":"Cotorro",
+            "pais":"Republica Dominicana",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_112409.jpg"
+        },
+        {
+            "marca": "hollandia",
+            "precio": 180,
+            "loc":[23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Paises Bajos",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_114826.jpg"
+        },
+        {
+            "marca": "bucanero",
+            "precio": 220,
+            "loc": [23.044613, -82.268684],
+            "municipio":"Cotorro",
+            "pais":"Cuba",
+            "imagenes":"./imagenes_capturadas/IMG_20230429_114826.jpg"
+        }
+    ]
+}
