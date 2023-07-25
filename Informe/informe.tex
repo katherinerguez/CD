@@ -1,0 +1,107 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\begin{document}
+    \begin{titlepage}
+        \centering
+        {\bfseries\Huge INTRODUCCIÓN A LA CIENCIA DE DATOS }\\
+        \vspace{2cm}
+        {\scshape\large Facultad de Matemática y Computación}\\
+        \vspace
+        {3cm}
+        {\scshape\large INFORME }\\
+        \vspace{3cm}
+        {\Large Autor:}
+        {\large Katherine Rodríguez Rodríguez}\\
+        \vspace{3cm}
+        \includegraphics[width= 0.5\textwidth]{CD}
+    \end{titlepage}
+    \begin{center}
+        {\underline{\large{Introducción}}}\\
+    \end{center}
+    \vspace{1cm}
+    Actualmente se realizan estrategias para dar solución a las problemáticas o deficiencias que existen y así lograr un impulso para mejorar una parte de la economía del país.\\
+    \\
+    Las micro, pequeñas y medianas empresas (MIPYMES) se han insertado poco a poco en el sector económico, donde se enfocan en la producción de bienes, y estas en su mayoría son privadas. Ellas han ido levantando favorablemente la economia del pais.\\
+    \\
+    Según análisis de productos con un impacto significativo en el flujo de bienes que pasan por los canales de comercialización mayorista permiten conocer la participación de la producción nacional en el total de la oferta de los bienes seleccionados, con lo cual se logra mayor integralidad.
+    La información del total de bienes disponibles como resultado de la producción nacional y las importaciones tiene como destino el consumo de hogares, el consumo intermedio y las exportaciones.\\
+    Los bienes que brindan incluye comestibles, bebidas, tabacos y cigarros, entre otros productos y las bebidas representan el 85,4 porciento en la producción nacional.
+    \footnote{(Anuario Estadístico-capítulo 14)}
+    \\
+    La cerveza y la malta son bebidas de gran consumo y la población tiene un buen acceso a ellas. También se encuentra un producto que es necesario en el hogar y por tanto no se puede dejar de mencionar, la cebolla.\\
+    \\
+    Se tendrá como objetivo el realizar un análisis sobre los productos de la cerveza, la malta y la cebolla del municipio de Cotorro, repecto a su precio y su marca, todo dependiendo de sus variaciones.
+    \newpage
+    \part*{Obtener la información}
+    Para realizar el análisis deseado es imprescindible tener una base de datos. Para obtener esta información es necesario recorrer y visitar suficientes lugares donde se brinden estos productos.
+    Además tener una evidencia de la información recopilada para hacer una extracción de los datos.\\
+    \\
+    Cada una de las cosas mencionadas anteriormente se guardó en un json llamado "productos" y para ir trabajo más cómodo este se convirtió en panda.\\
+    \\
+    \part*{La cebolla}
+    Empezamos con el último producto mencionado, la cebolla.
+    \\
+    Es un ingrediente básico en la cocina, además es importante por todos sus beneficios para la salud, por lo que es indispensable su consumo. 
+    Se requiere a la hora de comprar el producto poder ver los diferentes precios que este puede llegar a tener, esto nos muestra cuál es la moda de estos precios. Además de ver el valor de la cebolla más barata y cara dependiendo de su tipo y así el cliente sabrá, dependiendo de cuanto disponga, donde comprarlo. \\
+    \\
+    El precio de la cebolla blanca que más abunda es a 150 y el de la morada a 140. Esto se puede saber al hacer mediante un gráfico de barras una visualización sobre la cantidad de lugares donde se vende el producto a un mismo precio, dependiendo de su tipo.\\
+    \\
+    Dependiendo de los precios se puede encontrar el valor máximo, medio y mínimo que este llega a alcanzar. Se representa esta vez el precio dependiendo de el lugar donde se vende, usando el mismo tipo de grafica.\\
+    \\
+    El valor del precio mínimo de la cebolla es: 130\\
+    El valor del precio medio de la cebolla es: 151.72222222222223\\
+    El valor del precio máximo de la cebolla es: 180\\
+    \\
+    \newpage
+    \part*{La cerveza}
+    La cerveza es una bebida social que se consume con amigos o en familia, acompaña bien los alimentos y tiene buen sabor, motivos que la convierten en la bebida más consumida por los jóvenes adultos y tadicionalemnte asociada a un consumo responsable.\\
+    \\
+    A unos les gusta directamente la cerveza de la lata o de la botella y otros la sirven en un vaso.\\
+    \\
+    ¿Será de un tipo mejor que el otro?\\
+    \\
+    Pues a algunas cervezas le viene mejor la lata y a otras la botella de vidrio. La botella de vidrio aunque conservada en frío se mantenga bien y esté presentable a la hora de servirla es la que tiene un formato más desfavorecedor. Los envases de lata son totalmente herméticos y sellados. Esta se enfría rápidamente, por lo que es muy favorable para el calor y en especial el verano. También el aluminio es mucho más fácil de reciclar que las botellas de vidrio.\\
+    \\
+    Pues podríamos preguntarnos ¿si en el municipio Cotorro hay mayor cantidad de cervezas en latas que en botellas de vidrio?\\
+    \\
+    Bueno como resultado, los estudios no se contradicen con lo dicho anteriormente, se encuentra una cantidad de ocho respecto a las cervezas en botellas y de latas hay 102.\\
+    \\
+    Bueno llegó el momento de analizar la variedad de las cervezas y de los diferentes precios que puede llegar a tomar cada marca.\\
+    Existe una gran variedad en las marcas de la cerveza y esto se puede apreciar mediante un gráfico de dispersión. Mahou, Eichbaum Pilsener y Martens son las marcas correspondientes al precio más barato, 140 pesos. El precio más caro le corresponde a bavaria 8.6 con 250 pesos.\\
+    \\
+    ¿Cuál sería la cerveza que más predomina en el municipio?\\
+    \\
+    La marca cristal es la que más predomina en este municipio, se muestra en un gráfico de barras. Esta al ser producida por la empresa estatal cubana Cervecería Bucanero S.A. se facilita un poco al adquirir el producto. El gusto de esta marca en la gran mayoría se debe principalmente a su sabor ligero y refrescante, lo cual es muy favorable para el clima de Cuba.\\
+    \newpage
+    \part*{La malta}
+    Como último producto se verá la malta.\\
+    \\
+    ¿Será esta bebida dañina para la salud?\\
+    \\
+    El componente principal es la maltosa, y esta posee proteínas hidrolizadas, vitaminas y minerales. Los valores de la capacidad antioxidante analizados en laboratorios certificados, se demuestran que son bajos en la bebida de la malta. \\
+    \footnote{(portal.amelica.org/ameli/journal/328/3283333007/html/)}
+    Al poseer algunos beneficios para la salud, ¿esta bebida está a nuestra disponibilidad?\\
+    \\
+    ¿Tendrá precios asequibles?\\
+    \\
+    Se puede analizar las diferentes marcas de la malta y su variación en los precios. Se aprecia a través de una gráfica de dispersión que la malta bucanero es la más cara, alrededor de 230 pesos, y las más baratas son la malta morena y la vigor, a 140 pesos.\\
+    \\
+    ¿Cuál de todas estas marcas predominan más dependiendo de su precio?\\
+    \\
+    La hollandia es la que más predomina en el precio de 180. Esta presenta un sabor dulce y nutritivo, además de que ha estado disponible en el mercado cubano durante décadas.\\
+
+    \newpage
+    \begin{center}
+        {\underline{\large{Conclusiones}}}\\
+    \end{center}
+    Para concluir, con la realización de este trabajo se puede apreciar cada una de las variaciones de los productos de la cerveza, malta y de la cebolla. Además de cuáles son los productos más baratos y más caros respectivamente.\\
+    Es muy recomendable cada vez que se vaya a adquirir uno de estos productos tener en cuenta sus precios dependiendo del lugar y de cuál es el precio con mayor frecuencia, todo dependiendo de cuánto el cliente esté dispuesto a dar, y en caso de que sea para proporcionarlo se tiene un estudio sobre el mercado donde se vende. 
+
+
+
+    \end{document}
+
+
+
